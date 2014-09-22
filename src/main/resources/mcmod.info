@@ -1,0 +1,16 @@
+[
+{
+  "modid": "WitherPower",
+  "name": "Wither Power",
+  "description": "Wither Power mod is based on end-game electricity and some interesting mechanics.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nickcool9999"],
+  "credits": "Forge, UE Author (Calclavia)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

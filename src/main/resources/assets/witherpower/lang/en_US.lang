@@ -1,0 +1,8 @@
+itemGroup.tabWitherPower=Wither Power
+
+item.WitheredWrench.name=Withered Wrench
+item.ConstructionPlating.name=Construction Plating
+item.StarStructureCore.name=Star Structure Core
+tooltip.WitheredWrench=This wrench is powerful.
+
+tile.WPController.name=Wither Network Controller
